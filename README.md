@@ -47,10 +47,12 @@ I have written a short essay about the layout [here](https://write.as/oferlund/d
 This variation has better roll stats, but I haven't
 bothered switching to it.
 
-Another possible mod would be to swap M and B.
+It takes some inspiration from the SNTH layout which
+also moves R to a thumb key, although this variant
+keeps R on the left pinky.
 
 ```
-q f h p k j w o u /
-r s n t m y c a e i
-x b l d v z g . ' ,
+q f h k v j y o u ,
+r s n t p g c a e i
+x m l d b z w ' ; .
 ```
