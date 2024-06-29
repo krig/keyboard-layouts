@@ -20,6 +20,8 @@ word meaning FAST.
 
 ## Hydra
 
+![Hydra keyboard layout](Hydra.png)
+
 Hydra is the second revision of Miscreant, and I am currently learning to use it. It's a theoretical improvement with better stats across the board, but is unproven. Miscreant, on the other hand, is definitely usable and has proven itself over months of use.
 
 Regular / ortholinear:
@@ -39,6 +41,8 @@ q f h k v j y o u /
 ```
 
 ## Miscreant
+
+![Miscreant keyboard layout](Miscreant.png)
 
 Regular/ortholinear version:
 
